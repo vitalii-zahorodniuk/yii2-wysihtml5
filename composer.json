@@ -15,7 +15,6 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0",
     "xz1mefx/yii2-base": "*",
     "bower-asset/bootstrap-treeview": "~1"
   },
