@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+Yii2 widgets collection
+=
 
-You can use the [editor on GitHub](https://github.com/xZ1mEFx/yii2-widgets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Software License][ico-license]](LICENSE.md)
+[![Total Downloads][ico-downloads]][link-packagist]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Installation
+-
 
-### Markdown
+1.  The preferred way to install this extension is through [composer](http://getcomposer.org/download/), run:
+    ```bash
+    php composer.phar require --prefer-dist xz1mefx/yii2-widgets "~1.0"
+    ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ico-version]: https://img.shields.io/github/release/xz1mefx/yii2-widgets.svg
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
+[ico-downloads]: https://img.shields.io/packagist/dt/xz1mefx/yii2-widgets.svg
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xZ1mEFx/yii2-widgets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[link-packagist]: https://packagist.org/packages/xz1mefx/yii2-widgets
+[link-base-extension]: https://github.com/xZ1mEFx/yii2-base
+[link-multilang-extension]: https://github.com/xZ1mEFx/yii2-multilang
+[link-adminlte-extension]: https://github.com/xZ1mEFx/yii2-adminlte
+[link-autocomplete-extension]: https://github.com/iiifx-production/yii2-autocomplete-helper
