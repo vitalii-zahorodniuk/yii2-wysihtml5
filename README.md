@@ -22,3 +22,4 @@ Installation
 [link-multilang-extension]: https://github.com/xZ1mEFx/yii2-multilang
 [link-adminlte-extension]: https://github.com/xZ1mEFx/yii2-adminlte
 [link-autocomplete-extension]: https://github.com/iiifx-production/yii2-autocomplete-helper
+ 
