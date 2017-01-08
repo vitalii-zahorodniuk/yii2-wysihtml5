@@ -15,6 +15,7 @@
     }
   ],
   "require": {
+    "xz1mefx/yii2-base": "*",
     "xz1mefx/yii2-base": "*"
   },
   "autoload": {
