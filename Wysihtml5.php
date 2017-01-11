@@ -1,5 +1,5 @@
 <?php
-namespace xz1mefx\widgets\wysihtml5;
+namespace xz1mefx\wysihtml5;
 
 use yii\bootstrap\Html;
 use yii\bootstrap\InputWidget;
@@ -8,7 +8,7 @@ use yii\helpers\Json;
 
 /**
  * Class Wysihtml5
- * @package xz1mefx\widgets\wysihtml5
+ * @package xz1mefx\wysihtml5
  */
 class Wysihtml5 extends InputWidget
 {

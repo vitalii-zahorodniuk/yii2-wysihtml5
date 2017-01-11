@@ -1,17 +1,17 @@
 <?php
 
-namespace xz1mefx\widgets\wysihtml5;
+namespace xz1mefx\wysihtml5;
 
 use yii\web\AssetBundle;
 
 /**
  * Class Wysihtml5Asset
- * @package xz1mefx\widgets\wysihtml5
+ * @package xz1mefx\wysihtml5
  */
 class Wysihtml5Asset extends AssetBundle
 {
 
-    public $sourcePath = '@vendor/xz1mefx/yii2-widgets/wysihtml5/assets/dist';
+    public $sourcePath = '@vendor/xz1mefx/yii2-wysihtml5/assets/dist';
 
     public $css = [
         'bootstrap3-wysihtml5.min.css',
