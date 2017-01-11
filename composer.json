@@ -1,10 +1,11 @@
 {
   "name": "xz1mefx/yii2-widgets",
-  "description": "Yii2 widgets",
+  "description": "Yii2 wysihtml5 widget",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
     "widget",
+    "wysihtml5",
     "xZ1mEFx"
   ],
   "license": "MIT",
@@ -15,7 +16,6 @@
     }
   ],
   "require": {
-    "xz1mefx/yii2-base": "*",
     "xz1mefx/yii2-base": "*"
   },
   "autoload": {
