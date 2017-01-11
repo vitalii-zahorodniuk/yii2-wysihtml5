@@ -1,5 +1,5 @@
 {
-  "name": "xz1mefx/yii2-widgets",
+  "name": "xz1mefx/yii2-wysihtml5",
   "description": "Yii2 wysihtml5 widget",
   "type": "yii2-extension",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "xz1mefx\\widgets\\": ""
+      "xz1mefx\\wysihtml5\\": ""
     }
   }
 }
